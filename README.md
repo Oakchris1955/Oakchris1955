@@ -1,5 +1,5 @@
 ### Hi there 👋 This is my Github Profile README and these are my general stats
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=Oakchris1955&theme=onedark)](https://github.com/anuraghazra/github-readme-stats&theme=onedark)
+[![My Github stats](https://github-readme-stats.vercel.app/api?username=Oakchris1955&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Also, these are my accounts on some websites
 
