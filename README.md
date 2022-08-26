@@ -7,3 +7,6 @@
 ### Also, these are my accounts on some websites
 
 [![u/Oakchris1955](https://img.shields.io/badge/Reddit-orange?logo=reddit&logoColor=white&style=for-the-badge)](https://reddit.com/u/Oakchris1955)
+
+### Donations
+BTC: bc1qh03fh2gufklvjfyscmf8kn526njhyhswh0a54x
