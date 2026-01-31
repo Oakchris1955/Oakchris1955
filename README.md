@@ -6,7 +6,13 @@
 
 ### Also, these are my accounts on some websites
 
-[![u/Oakchris1955](https://img.shields.io/badge/Reddit-orange?logo=reddit&logoColor=white&style=for-the-badge)](https://reddit.com/u/Oakchris1955)
+Reddit: [u/Oakchris1955](https://reddit.com/u/Oakchris1955)
+
+Email: <mailto:chris@oakchris1955.eu>
+
+Website: <https://oakchris1955.eu>
+
+IRC: oakchris1955 at [libera.chat](https://libera.chat) (leave me a memo)
 
 ### Donations
 BTC: [bc1qh03fh2gufklvjfyscmf8kn526njhyhswh0a54x](https://mempool.space/address/bc1qh03fh2gufklvjfyscmf8kn526njhyhswh0a54x)
